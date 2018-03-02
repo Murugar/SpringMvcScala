@@ -1,0 +1,45 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/
+/target/
+/springmvcscalajackson.iml
+
+#Maven#
+target/
+build/
+
+#mac osx
+.DS_Store
+
+#log file
+*.log
+
+#intellij
+out/
+*.iml
+.idea/
+.idea/workspace.xml
+
+#eclipse
+.settings
+.classpath
+.project
+.externalToolBuilders
+bin/
+
+# frontend
+node
+node_modules
+rev
+bower_components
+_css
+bundle.js
+dist.zip
+
+.tmp
+.sass-cache
+__ConfigTemp
+logs/
+
+# misc
+Thumbs.db
+
